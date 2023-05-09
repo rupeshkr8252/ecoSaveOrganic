@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saveOrganic/static/css/main.4ce4c143.css",
+    "main.js": "/saveOrganic/static/js/main.89f7a9d2.js",
+    "static/media/bg.webp": "/saveOrganic/static/media/bg.a417497d85b4f7c8bd88.webp",
+    "static/media/logo.webp": "/saveOrganic/static/media/logo.1a8329ac5586d0d8dd5f.webp",
+    "index.html": "/saveOrganic/index.html",
+    "main.4ce4c143.css.map": "/saveOrganic/static/css/main.4ce4c143.css.map",
+    "main.89f7a9d2.js.map": "/saveOrganic/static/js/main.89f7a9d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4c143.css",
+    "static/js/main.89f7a9d2.js"
+  ]
+}
