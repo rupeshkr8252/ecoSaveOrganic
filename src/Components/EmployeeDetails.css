@@ -1,0 +1,21 @@
+
+.emp-details p{
+    /* color: #fff; */
+    font-size: 20px;
+    font-weight: 500;
+    /* border: 2px solid #6d1414; */
+}
+
+.emp-name{
+    color: #000;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.emp-details{
+    background: #fff;
+}
+
+.accord-btn{
+    background: #00a884;
+}

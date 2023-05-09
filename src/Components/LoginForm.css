@@ -1,0 +1,76 @@
+.save-eco{
+    color: rgb(9, 152, 9);
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.main-box{
+    border: 5px solid  rgb(9, 152, 9);
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 13px;
+    background: #ffffff;
+}
+.submit-btn{
+    background:  rgb(9, 152, 9);
+    border: 1px solid  rgb(9, 152, 9);
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    height: 40px;
+    outline: none;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    width: 100%;
+}
+button.submit-btn:hover {
+    background:  rgb(1, 82, 1);
+}
+.container {
+    padding: 20px;
+    max-width: 550px;
+    width: 95%;
+    margin: 0 auto;
+}
+.container .header {
+    text-align: left;
+}
+.container .header h1 {
+    margin-top: 30px;
+}
+
+.container form .form-group {
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login-error{
+    color: #B72D2D;
+    font-size: 15px;
+}
+.input-field {
+    height: 55px;
+    border-radius: 4px;
+    border: 2px solid  rgb(9, 152, 9);
+    padding: 5px;
+    font-size: 25px;
+
+    width: 100%;
+    box-shadow: none;
+    outline: none;
+    font-size: 14px;
+}
+
+.container form .inputField:focus + label,
+.container form .inputField:valid + label {
+    transform: translate(0, -125%);
+}
+
+@media screen and (max-width:640px){
+    .save-eco{
+        font-size: 25px;
+        font-weight: 600;
+    }
+}
